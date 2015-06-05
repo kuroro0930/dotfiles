@@ -32,6 +32,8 @@ set clipboard=unnamed
 " vi互換をオフ
 set nocompatible
 
+" 行番号を表示
+set number
 
 " 新しい行のインデントを現在行と同じに
 set autoindent

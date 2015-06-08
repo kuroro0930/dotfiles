@@ -54,6 +54,7 @@ set showmatch
 set smarttab
 
 " 検索結果のハイライトをESC連打でクリア
-" nnoremap <ESC><ESC> :nohlsearch<CR>
+nnoremap <ESC><ESC> :nohlsearch<CR>
 
-
+" BEEP音を消す
+set vb t_vb=
